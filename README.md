@@ -10,3 +10,8 @@ QUEUE
 
 <img width="1477" height="600" alt="image" src="https://github.com/user-attachments/assets/357c9f95-17c2-4fd4-8235-c90a43dca92f" />
 
+
+Circular Queue
+![Uploading image.png…]()
+
+
