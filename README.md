@@ -12,6 +12,7 @@ QUEUE
 
 
 Circular Queue
-![Uploading image.png…]()
+<img width="1773" height="718" alt="image" src="https://github.com/user-attachments/assets/b9ce0fba-d04b-43e7-9cf5-f88e4c1375dd" />
+
 
 
